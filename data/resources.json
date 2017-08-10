@@ -76,11 +76,6 @@
           "text": "Google Developers",
           "url": "https://developers.google.com/",
           "newTab": true
-        },
-        {
-          "text": "GDG Düsseldorf DevFest 2016",
-          "url": "http://duesseldorf.devfest.de/2016",
-          "newTab": true
         }
       ]
     }
@@ -88,8 +83,8 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "devfest@gdg-dus.de",
+        "url": "mailto:devfest@gdg-dus.de"
       }
     ]
   },
